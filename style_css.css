@@ -1,0 +1,10 @@
+/*
+Fichier style_css.css
+*/
+p{
+color: blue; /* Les paragraphes seront en bleu */
+}
+.introduction
+{
+color:green; /* La classe introduction sera en verte */
+}
